@@ -16,7 +16,7 @@ SECRET_KEY = '%2+*!-$ps88p_u#q=7@t$-om4int-g=mtzhksjp3p+%g*w1pre'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
